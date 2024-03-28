@@ -11,3 +11,4 @@ The eCommerce Image Gallery is a versatile and user-friendly component specifica
 - Customizable styles and configurations.
 - Easy integration with existing eCommerce platforms.
 # Screenshot
+![Screenshot 2024-03-28 103505](https://github.com/AnilYadav8421/Ecommerce-Image-Gallery/assets/138858484/16a240db-71a8-4467-a294-a5f43cbd011c)
